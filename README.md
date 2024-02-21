@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeonardoMBarca
-- 👀 I’m interested in technology, data science, data analysis, python, sports, music...
+- 👀 I’m interested in technology, data science, data analysis, python, Cloud Computing, sports, music...
 - 🌱 I’m currently learning data science, AWS and AIs
 - 💞️ I’m looking to collaborate on projects and studies
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: I live in mogi das cruzes
