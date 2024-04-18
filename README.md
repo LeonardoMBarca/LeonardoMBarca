@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @LeonardoMBarca
-- 👀 I’m interested in technology, data science, data analysis, python, Cloud Computing, sports, music...
-- 🌱 I’m currently learning data science, AWS and AIs
-- 💞️ I’m looking to collaborate on projects and studies
-- 😄 Pronouns: him/his
+[![MasterHead]![image](https://github.com/LeonardoMBarca/LeonardoMBarca/assets/139215945/1211a6ef-bc18-4108-aef7-f1112feccc05)
+]([your GitHub link](https://github.com/LeonardoMBarca))
