@@ -27,15 +27,15 @@
 
 <h3 align="left">Technology Stack:</h3>
 
-- Linguagens de Programação:
+- Programming Languages:
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
-- Sistemas Operacionais:
+- Operational Systems:
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white)
-- Serviços de Nuvem:
+- Cloud Services:
   ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white) ![Nuvem](https://img.shields.io/badge/-Nuvem-blue?style=flat-square&logo=google-cloud&logoColor=white)
-- Ferramentas de Desenvolvimento:
+- Development Tools:
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-- Bancos de Dados:
+- Data Bases:
   ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
 <h3 align="left">GitHub Stats:</h3>
