@@ -1,2 +1,1 @@
-[![MasterHead](![image](https://github.com/LeonardoMBarca/LeonardoMBarca/assets/139215945/1eb436c8-93cb-47a7-8d7b-d3ca619be3c8)
-)]([your GitHub link](https://github.com/LeonardoMBarca))
+[![MasterHead](![image](![image](https://github.com/LeonardoMBarca/LeonardoMBarca/assets/139215945/b34acdba-8dab-4b3a-b11d-3080cf2e4da7)))]([your GitHub link](https://github.com/LeonardoMBarca))
