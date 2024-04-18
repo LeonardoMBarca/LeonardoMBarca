@@ -1,1 +1,1 @@
-[![MasterHead](https://github.com/LeonardoMBarca/LeonardoMBarca/assets/139215945/35472a42-48fb-47e3-bd64-346aa41840b1)](https://github.com/LeonardoMBarca)
+[![MasterHead](https://github.com/LeonardoMBarca/LeonardoMBarca/blob/main/Captura%20de%20tela%202024-04-18%20143308.jpg)](https://github.com/LeonardoMBarca)
