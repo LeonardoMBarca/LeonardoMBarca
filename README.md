@@ -46,6 +46,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMBarca&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </body>
 </html>
