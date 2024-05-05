@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h2 align="center">Hello, World!</h2>
+<h2 align="center">Hello, World!!</h2>
 
 <p align="center">
   I am a 2nd year student studying systems analysis and development (ADS) 📚 at UMC 🎓. I am a passionate student who always seeks to improve myself💡. I love exploring new technologies and trying to solve real problems with them. I am passionate about Artificial Intelligence, and my goal is to develop myself as a data scientist 🤖.
