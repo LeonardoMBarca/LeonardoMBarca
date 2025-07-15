@@ -131,9 +131,8 @@
 <br>
 
 <a href="https://www.linkedin.com/in/leonardo-barca-406813282/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Leonardo+Moraes+Barca%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Moraes%20Barca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-
 <br>
 	
 </ul>
