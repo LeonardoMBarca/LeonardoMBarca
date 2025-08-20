@@ -11,9 +11,9 @@
 <br>
 
 	
-## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://giphy.com/gifs/reaction-mood-1O2BRZcDgIfDsKMTbG)" width = 50px></picture> **About me**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pyYjUxdTlzZTU4N3Y3dHQyczZrNTU0aWF0emlzNTNrY3UxcmJ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width ="25"> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lneHVueHJsdDJ5YmFyaG95cmVzdmZvZjc5ZWtoZ3J6eXRtaXZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2z956IUc3J0noEOXUL/giphy.gif" width = 150px></picture>
 
 <br>
 
